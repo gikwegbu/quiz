@@ -1,0 +1,103 @@
+	
+response_code	0
+results	
+0	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?"
+correct_answer	"Apple"
+incorrect_answers	
+0	"Microsoft"
+1	"Atari"
+2	"Commodore"
+1	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"In any programming language, what is the most common way to iterate through an array?"
+correct_answer	"&#039;For&#039; loops"
+incorrect_answers	
+0	"&#039;If&#039; Statements"
+1	"&#039;Do-while&#039; loops"
+2	"&#039;While&#039; loops"
+2	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"What does CPU stand for?"
+correct_answer	"Central Processing Unit"
+incorrect_answers	
+0	"Central Process Unit"
+1	"Computer Personal Unit"
+2	"Central Processor Unit"
+3	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"What does GHz stand for?"
+correct_answer	"Gigahertz"
+incorrect_answers	
+0	"Gigahotz"
+1	"Gigahetz"
+2	"Gigahatz"
+4	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"The programming language &#039;Swift&#039; was created to replace what other programming language?"
+correct_answer	"Objective-C"
+incorrect_answers	
+0	"C#"
+1	"Ruby"
+2	"C++"
+5	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"HTML is what type of language?"
+correct_answer	"Markup Language"
+incorrect_answers	
+0	"Macro Language"
+1	"Programming Language"
+2	"Scripting Language"
+6	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s."
+correct_answer	"Binary"
+incorrect_answers	
+0	"JavaScript"
+1	"C++"
+2	"Python"
+7	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"What does the Prt Sc button do?"
+correct_answer	"Captures what&#039;s on the screen and copies it to your clipboard"
+incorrect_answers	
+0	"Nothing"
+1	"Saves a .png file of what&#039;s on the screen in your screenshots folder in photos"
+2	"Closes all windows"
+8	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"In web design, what does CSS stand for?"
+correct_answer	"Cascading Style Sheet"
+incorrect_answers	
+0	"Counter Strike: Source"
+1	"Corrective Style Sheet"
+2	"Computer Style Sheet"
+9	
+category	"Science: Computers"
+type	"multiple"
+difficulty	"easy"
+question	"On Twitter, what is the character limit for a Tweet?"
+correct_answer	"140"
+incorrect_answers	
+0	"120"
+1	"160"
+2	"100"
